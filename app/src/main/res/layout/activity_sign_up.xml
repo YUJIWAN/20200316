@@ -219,16 +219,8 @@
                 android:text="다음" />
 
 
-
-
-
         </LinearLayout>
 
-
-
     </ScrollView>
-
-
-
 
 </LinearLayout>
